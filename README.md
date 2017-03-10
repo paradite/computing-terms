@@ -10,16 +10,13 @@ PRs and issues are most welcomed.
 
 - [Computing Terms – General](#computing-terms-%E2%80%93-general)
   * [1\. Git](#1-git)
-    + [Terms related to Git](#terms-related-to-git)
-      - [1.1 GitHub](#11-github)
-      - [1.2 Pull Request (PR)](#12-pull-request-pr)
+    + [1.1 GitHub](#11-github)
+    + [1.2 Pull Request (PR)](#12-pull-request-pr)
   * [2\. Linux](#2-linux)
-    + [Terms related to Linux](#terms-related-to-linux)
-      - [2.1 Ubuntu](#21-ubuntu)
+    + [2.1 Ubuntu](#21-ubuntu)
   * [3\. Integrated Development Environment (IDE)](#3-integrated-development-environment-ide)
-    + [Terms related to IDE](#terms-related-to-ide)
-      - [3.1 Vim/Emacs](#31-vimemacs)
-      - [3.2 Sublime Text/Atom](#32-sublime-textatom)
+    + [3.1 Vim/Emacs](#31-vimemacs)
+    + [3.2 Sublime Text/Atom](#32-sublime-textatom)
 - [Computing Terms – Web Development](#computing-terms-%E2%80%93-web-development)
   * [4\. Front-end (client-side)](#4-front-end-client-side)
   * [5\. HTML (HyperText Markup Language)](#5-html-hypertext-markup-language)
@@ -55,9 +52,9 @@ Think of git as a Google Drive app for your code:
 
 **Learn git**: Just [Google git tutorial](https://www.google.com.sg/#q=git+tutorial) or pick up a [desktop client](https://git-scm.com/downloads/guis) if you are scared of typing into command line and want a “normal application” where you can use your mouse to click.
 
-#### Terms related to Git
+**Terms related to Git:**
 
-##### 1.1 GitHub
+#### 1.1 GitHub
 
 [GitHub](https://github.com/) is an online platform where you can store your code with **git**, think of it as Google Drive or Dropbox…
 
@@ -67,7 +64,7 @@ GitHub, on the other hand, is just a popular choice for storing your code. If yo
 
 (If you are not confused at this point, there are also alternatives for **git**, such as mercurial, but those are not so popular now)
 
-##### 1.2 Pull Request (PR)
+#### 1.2 Pull Request (PR)
 <img src="https://confluence.atlassian.com/download/attachments/747605148/Pull%20Request.png" width="600px">
 
 <sub><sup>Pull Request workflow on BitBucket</sup></sub>
@@ -93,9 +90,9 @@ There are some reasons why Linux is better for programming:
 
 In a nutshell, using Linux would save you a lot of trouble when doing programming, OS X is also good in this respect. You may be able to [run Linux on Windows](https://msdn.microsoft.com/en-us/commandline/wsl/about) in the future, but for now it is better to get a Linux distribution like Ubuntu (see below) on your computer (via dual boot or virtual machine).
 
-#### Terms related to Linux
+**Terms related to Linux:**
 
-##### 2.1 Ubuntu
+#### 2.1 Ubuntu
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Desktop_Ubuntu_13_10.png/800px-Desktop_Ubuntu_13_10.png" width="600px">
 
@@ -117,9 +114,9 @@ Chances are you don’t need them until you take the module CS2103 (or CS2103T) 
 
 However, if you want to try developing a web app or mobile app, then you would want to get an IDE ([XCode](https://developer.apple.com/xcode/) or iOS app, Android Studio for Android app, [IntelliJ IDEA](https://www.jetbrains.com/idea/) or [WebStorm](https://www.jetbrains.com/webstorm/) for web app). Using an IDE would allow you to test, build and deploy easier and save you a lot of manual work (unless you are already an avid Vim or Emacs user).
 
-#### Terms related to IDE
+**Terms related to IDE:**
 
-##### 3.1 Vim/Emacs
+#### 3.1 Vim/Emacs
 
 <img src="https://www.safaribooksonline.com/blog/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-2.33.06-PM.png" width="600px">
 
@@ -127,7 +124,7 @@ However, if you want to try developing a web app or mobile app, then you would w
 
 These are the two most “respected” text editors within the programming world. They are not IDEs but more powerful than simple text editors like Notepad on Windows. Both of them are designed to minimize mouse usage in order to achieve higher efficiency. They can be customized and extended via plugins. Moreover, they do not rely on GUI of the operating system, making them the only options (besides **nano**, a very basic text editor) to edit text directly on servers via command line interface. Vim also come with major operating systems used in servers so you can use it right away without installation.
 
-##### 3.2 Sublime Text/Atom
+#### 3.2 Sublime Text/Atom
 
 <img src="https://d1500126afb479750e37-a64714c5a1c2e9046721298a9cbb67c4.ssl.cf3.rackcdn.com/blog/2013/04/20121122135300Sublime-text-2-screenshot.png" width="600px">
 
