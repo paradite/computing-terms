@@ -16,7 +16,7 @@ PRs and issues are most welcomed.
     + [2.1 Ubuntu](#21-ubuntu)
   * [3\. Integrated Development Environment (IDE)](#3-integrated-development-environment-ide)
     + [3.1 Vim/Emacs](#31-vimemacs)
-    + [3.2 Sublime Text/Atom](#32-sublime-textatom)
+    + [3.2 Sublime Text/Atom/Visual Studio Code](#32-sublime-textatomvisual-studio-code)
 - [Computing Terms – Web Development](#computing-terms-%E2%80%93-web-development)
   * [4\. Front-end (client-side)](#4-front-end-client-side)
   * [5\. HTML (HyperText Markup Language)](#5-html-hypertext-markup-language)
@@ -25,7 +25,7 @@ PRs and issues are most welcomed.
   * [8\. Backend-end (server-side)](#8-backend-end-server-side)
   * [9\. Application Programming Interface (API)](#9-application-programming-interface-api)
   * [10\. HTTP Request](#10-http-request)
-  * [11\. Error 404](#11-error-404)
+  * [11\. Error 404 (HTTP status code)](#11-error-404-http-status-code)
 - [Computing Terms – Computer Science](#computing-terms-%E2%80%93-computer-science)
   * [12\. Recursion](#12-recursion)
 - [Other terms in Computer Science](#other-terms-in-computer-science)
@@ -233,9 +233,15 @@ POST request also needs a url. However, in POST request, you need to specify the
 
 Initially, POST is designed to send data to server, where GET is for retrieving data. But in practice, you can use them interchangeably. So why use POST request at all? The POST request has no limit on the length of query string and it is more secure.
 
-### 11\. Error 404
+### 11\. Error 404 (HTTP status code)
 
-This is just one of the many [HTTP status codes](http://www.restapitutorial.com/httpstatuscodes.html). It means the page that you are requesting cannot be found. HTTP status codes are sent from server to your browser to tell the browser what happened. If you are serious about web development and building your own server, then you need to know at least a few other status codes, such as 200, 301, 304, 401, 500, etc…
+This is just one of the many [HTTP status codes](http://www.restapitutorial.com/httpstatuscodes.html). It means the page that you are requesting cannot be found. HTTP status codes are sent from server to your browser to tell the browser what happened.
+
+The first digit (the hundred digit) in the status code indicates the type of the response in a broad sense, 1XX means "informational", 2XX means "success", 3XX means "redirection", 4XX means "client error", 5XX means "server error". 
+
+The rest of the digits provides more details on the type of response, for example, 4 in 404 means client error, but 404 further indicates that the error is caused by client requesting a non-existing resource.
+
+If you are serious about web development and building your own server, then you need to know at least the popular status codes, such as 200, 301, 304, 401, 500, etc…
 
 ## Computing Terms – Computer Science
 
