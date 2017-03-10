@@ -1,6 +1,8 @@
 # Computing Terms for SoC students
 
-Here are the essential computing terms that are frequently used by computing students. Get to know them and prepare yourself for an exciting coding journey ahead.
+Here are the essential computing terms that are frequently used by computing students.
+
+PRs and issues are most welcomed.
 
 <!-- toc -->
 
@@ -276,3 +278,7 @@ You might also like these posts that I wrote:
 [Programming concepts in real life – Algorithm](https://paradite.com/2014/04/09/programming-concepts-in-real-life-algorithm/)
 
 [Programming concepts in real life – Interface](https://paradite.com/2014/03/23/programming-concepts-in-real-life-interface/)
+
+* * *
+
+This document is ported to markdown from my [original blog post](https://paradite.com/2016/06/02/computing-terms-soc-students-freshmen/).
