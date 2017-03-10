@@ -124,13 +124,15 @@ However, if you want to try developing a web app or mobile app, then you would w
 
 These are the two most “respected” text editors within the programming world. They are not IDEs but more powerful than simple text editors like Notepad on Windows. Both of them are designed to minimize mouse usage in order to achieve higher efficiency. They can be customized and extended via plugins. Moreover, they do not rely on GUI of the operating system, making them the only options (besides **nano**, a very basic text editor) to edit text directly on servers via command line interface. Vim also come with major operating systems used in servers so you can use it right away without installation.
 
-#### 3.2 Sublime Text/Atom
+#### 3.2 Sublime Text/Atom/Visual Studio Code
 
 <img src="https://d1500126afb479750e37-a64714c5a1c2e9046721298a9cbb67c4.ssl.cf3.rackcdn.com/blog/2013/04/20121122135300Sublime-text-2-screenshot.png" width="600px">
 
 <sub><sup>Screenshot of Sublime Text</sup></sub>
 
-These are relatively new text editors that the younger generation tend to use. They offer fancy graphical user interface and tons of plugins to save a lot of effort in coding. They have keyboard shortcuts but do not explicitly discourage the use of mouse and clicking. Unlike Vim/Emacs which requires you to spend time learning how to use them, Sublime Text/Atom are more friendly to beginners. If you think Vim/Emacs are too geeky, then get one of these instead.
+These are relatively new text editors that the younger generation tend to use. They offer fancy graphical user interface and tons of plugins to save a lot of effort in coding. They have keyboard shortcuts but do not explicitly discourage the use of mouse and clicking. 
+
+Unlike Vim or Emacs which requires you to spend time learning how to use them, Sublime Text or Atom or Visual Studio Code are more friendly to beginners. If you think Vim or Emacs are too geeky, then get one of these instead. There are small pros and cons for each of them, so you can try them out to see which one you like the most. 
 
 ## Computing Terms – Web Development
 
@@ -182,7 +184,9 @@ Now we can differentiate between **web application (web app)** and **website**. 
 
 ### 8\. Backend-end (server-side)
 
-What you do not see in the browser, is the backend of the web. The backend is responsible for database operations and “serving” the front-end contents to the user. In a traditional website, when the user requests a webpage, the backend would determine what the user is requesting, get some relevant data from database (optional), generate the corresponding HTML page with CSS and JavaScript, and send them back to the user’s browser.
+What you do not see in the browser, is the backend of the web. The backend is responsible for database operations and “serving” the front-end contents to the user.
+
+In a traditional website, when the user requests a webpage, the backend would determine what the user is requesting, get some relevant data from database (optional), generate the corresponding HTML page with CSS and JavaScript, and send them back to the user’s browser.
 
 ### 9\. Application Programming Interface (API)
 
