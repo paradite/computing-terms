@@ -35,8 +35,9 @@ Here are the essential computing terms that are frequently used by computing stu
 
 ### 1\. Git
 
-![An illustration of Git workflow](https://raw.githubusercontent.com/wunderkraut/wunderflow/master/img/WunderFlow1.png)
+<img src="https://raw.githubusercontent.com/wunderkraut/wunderflow/master/img/WunderFlow1.png" width="600px">
 
+<sub><sup>An illustration of Git workflow</sup></sub>
 
 Git (acronym for global information tracker, if you like) is a **version control software (VCS)** that helps you keep track of the code during development and collaborate with others.
 
@@ -63,8 +64,9 @@ GitHub, on the other hand, is just a popular choice for storing your code. If yo
 (If you are not confused at this point, there are also alternatives for **git**, such as mercurial, but those are not so popular now)
 
 ##### Pull Request (PR)
+<img src="https://confluence.atlassian.com/download/attachments/747605148/Pull%20Request.png" width="600px">
 
-![Pull Request workflow on BitBucket](https://confluence.atlassian.com/download/attachments/747605148/Pull%20Request.png)
+<sub><sup>Pull Request workflow on BitBucket</sup></sub>
 
 This is a term commonly used in software development, especially open-source software. Pull requests are a way to integrate new changes to the source code in a distributed VCS such as Git or Mercurial.
 
@@ -72,7 +74,9 @@ When a contributor implements a new feature, or a bug fix, he will be able to se
 
 ### 2\. Linux
 
-![Linux command line interface](https://i.stack.imgur.com/YRCsI.png)
+<img src="https://i.stack.imgur.com/YRCsI.png" width="600px">
+
+<sub><sup>Linux command line interface</sup></sub>
 
 Linux is an operating system, like Windows or **OS X** (operating system on Mac/Macbook by Apple). The main difference is that Linux is open source, you can see its [main (kernel) source code on GitHub](https://github.com/torvalds/linux). Due to similarities in their [origin from UNIX](https://www.quora.com/Is-Mac-OS-X-essentially-built-on-top-of-Linux), OS X is often considered a Linux-like OS, so some of the points below are also applicable to OS X.
 
@@ -89,7 +93,9 @@ In a nutshell, using Linux would save you a lot of trouble when doing programmin
 
 ##### Ubuntu
 
-![Screenshot of Ubuntu Desktop](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Desktop_Ubuntu_13_10.png/800px-Desktop_Ubuntu_13_10.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Desktop_Ubuntu_13_10.png/800px-Desktop_Ubuntu_13_10.png" width="600px">
+
+<sub><sup>Screenshot of Ubuntu Desktop</sup></sub>
 
 Ubuntu is a [Debian](https://www.debian.org/)-based Linux distribution, i.e. an operating system based on Linux. It gives you more features on top of Linux. It provides a graphical user interface similar to Windows and OS X, and built-in word processing software similar to Microsoft Office.
 
@@ -97,7 +103,9 @@ Normally when people say install Linux, they are referring to installing a Linux
 
 ### 3\. Integrated Development Environment (IDE)
 
-![A screenshot of IntelliJ IDEA IDE](https://i.ytimg.com/vi/vsyT-7n5-1I/maxresdefault.jpg)
+<img src="https://i.ytimg.com/vi/vsyT-7n5-1I/maxresdefault.jpg" width="600px">
+
+<sub><sup>A screenshot of IntelliJ IDEA IDE</sup></sub>
 
 If you are a techie, then you have probably heard of the debates on IDE vs text editors. IDEs are basically text editors with more features, such as code completion, debugging, building and testing. They can be specific to a language or framework, or more general and support different languages via tons of extensions and plugins. Some of the popular IDEs are [IntelliJ IDEA](https://www.jetbrains.com/idea/) (support many languages), [Eclipse](https://eclipse.org/ide/) (for Java and JavaScript), [Visual Studio](https://www.visualstudio.com/) (for C++ on Windows), [XCode](https://developer.apple.com/xcode/) (support many languages on OS X, the operating system for Mac).
 
@@ -109,13 +117,17 @@ However, if you want to try developing a web app or mobile app, then you would w
 
 ##### Vim/Emacs
 
-![Screenshot of Vim](https://www.safaribooksonline.com/blog/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-2.33.06-PM.png)
+<img src="https://www.safaribooksonline.com/blog/wp-content/uploads/2014/11/Screen-Shot-2014-11-21-at-2.33.06-PM.png" width="600px">
+
+<sub><sup>Screenshot of Vim</sup></sub>
 
 These are the two most “respected” text editors within the programming world. They are not IDEs but more powerful than normal text editors. Both of them are designed to minimize mouse usage in order to achieve higher efficiency. They can be customized and extended via plugins. Moreover, they do not rely on GUI of the operating system, making them the only options (besides **nano**, a very basic text editor) to edit text directly on servers via command line interface. Vim also come with major operating systems used in servers so you can use it right away without installation.
 
 ##### Sublime Text/Atom
 
-![Screenshot of Sublime Text](https://d1500126afb479750e37-a64714c5a1c2e9046721298a9cbb67c4.ssl.cf3.rackcdn.com/blog/2013/04/20121122135300Sublime-text-2-screenshot.png)
+<img src="https://d1500126afb479750e37-a64714c5a1c2e9046721298a9cbb67c4.ssl.cf3.rackcdn.com/blog/2013/04/20121122135300Sublime-text-2-screenshot.png" width="600px">
+
+<sub><sup>Screenshot of Sublime Text</sup></sub>
 
 These are relatively new text editors that the younger generation tend to use. They offer fancy graphical user interface and tons of plugins to save a lot of effort in coding. They have keyboard shortcuts but do not explicitly discourage the use of mouse and clicking. Unlike Vim/Emacs which requires you to spend time learning how to use them, Sublime Text/Atom are more friendly to beginners. If you think Vim/Emacs are too geeky, then get one of these instead.
 
@@ -125,13 +137,17 @@ These are relatively new text editors that the younger generation tend to use. T
 
 In general,terms in the area of web development can be divided into two categories, front-end and back-end, I will start with front-end first.
 
-![front-end and back-end](https://pbs.twimg.com/media/CV0PibhWoAAYatG.png)
+<img src="https://pbs.twimg.com/media/CV0PibhWoAAYatG.png" width="500px">
+
+<sub><sup>front-end and back-end</sup></sub>
 
 ### 4\. Front-end (client-side)
 
 Front-end, i.e. the client side of the web development, typically involves developing contents that normal users see in their browser. The core of front-end development is broken into 3 inter-connected components, HTML (HyperText Markup Language), CSS (Cascading Style Sheets) and JavaScript.
 
-![Different roles of HTML, CSS and JavaScript](https://www.webcodegeeks.com/wp-content/uploads/2015/12/js-interview-questions-1.jpg)
+<img src="https://www.webcodegeeks.com/wp-content/uploads/2015/12/js-interview-questions-1.jpg" width="500px">
+
+<sub><sup>Different roles of HTML, CSS and JavaScript</sup></sub>
 
 ### 5\. HTML (HyperText Markup Language)
 
@@ -151,7 +167,9 @@ Without CSS, web pages will be dry and boring. CSS allows web pages to have nice
 
 JavaScript is an **implementation** of ECMAScript. Below is a screenshot of [ECMAScript’s Wikipedia page](https://en.wikipedia.org/wiki/ECMAScript) on the relationship between ECMAScript, JavaScript and the various browsers:
 
-![Relationship between JavaScript, ECMAScript and the browsers, from https://en.wikipedia.org/wiki/ECMAScript](https://paradite.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-17-at-2.10.28-PM.png)
+<img src="https://paradite.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-17-at-2.10.28-PM.png" width="600px">
+
+<sub><sup>Relationship between JavaScript, ECMAScript and the browsers, from https://en.wikipedia.org/wiki/ECMAScript</sup></sub>
 
 Unlike HTML and CSS, JavaScript is a full Programming language, just Java or C++, i.e. you can write any kind of logic inside it. But it is very different from Java.
 
@@ -169,7 +187,9 @@ What you do not see in the browser, is the backend of the web. The backend is re
 
 ### 9\. Application Programming Interface (API)
 
-![API in the context of web application](https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-architecture/api-architecture-one.png)
+<img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-architecture/api-architecture-one.png" width="500px">
+
+<sub><sup>API in the context of web application</sup></sub>
 
 This is a very common term used in software engineering, especially when developing web applications. In the context of front-end and back-end, we use a more specific term [**RESTful API**](https://en.wikipedia.org/wiki/Representational_state_transfer) (REST API). It serves as a bridge for front-end to communicate with the backend. APIs are **used** by the front-end and **implemented** in the backend, and both sides need to agree on the format of the APIs.
 
@@ -222,7 +242,9 @@ This is just one of the many [HTTP status codes](http://www.restapitutorial.com/
 
 The explanation of recursion is in the word recursion itself. If you are able to understand the previous sentence, then you have grasp the idea of recursion. In computing world, it usually means a function calling **itself** during the execution repeatedly, until the function hits a **base case**. But recursion is more of a concept than a technical term, so you can understand it from a non-computing perspective as well. Think of Russian dolls:
 
-![russian dolls – recursion](https://paradite.com/wp-content/uploads/2016/06/giphy.gif)
+<img src="https://paradite.com/wp-content/uploads/2016/06/giphy.gif" width="300px">
+
+<sub><sup>russian dolls – recursion</sup></sub>
 
 When you open a Russian doll, you will see another Russian doll inside. Then you open that Russian doll again. The process goes on **repeatedly** until you hit a **base case**, i.e. the smallest doll.
 
