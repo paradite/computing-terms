@@ -4,6 +4,8 @@ Here are the essential computing terms that are frequently used by computing stu
 
 PRs and issues are most welcomed.
 
+## Table of Contents
+
 <!-- toc -->
 
 - [Computing Terms – General](#computing-terms-%E2%80%93-general)
@@ -133,8 +135,6 @@ These are the two most “respected” text editors within the programming world
 
 These are relatively new text editors that the younger generation tend to use. They offer fancy graphical user interface and tons of plugins to save a lot of effort in coding. They have keyboard shortcuts but do not explicitly discourage the use of mouse and clicking. Unlike Vim/Emacs which requires you to spend time learning how to use them, Sublime Text/Atom are more friendly to beginners. If you think Vim/Emacs are too geeky, then get one of these instead.
 
-* * *
-
 ## Computing Terms – Web Development
 
 In general,terms in the area of web development can be divided into two categories, front-end and back-end, I will start with front-end first.
@@ -236,8 +236,6 @@ Initially, POST is designed to send data to server, where GET is for retrieving 
 
 This is just one of the many [HTTP status codes](http://www.restapitutorial.com/httpstatuscodes.html). It means the page that you are requesting cannot be found. HTTP status codes are sent from server to your browser to tell the browser what happened. If you are serious about web development and building your own server, then you need to know at least a few other status codes, such as 200, 301, 304, 401, 500, etc…
 
-* * *
-
 ## Computing Terms – Computer Science
 
 ### 12\. Recursion
@@ -278,7 +276,5 @@ You might also like these posts that I wrote:
 [Programming concepts in real life – Algorithm](https://paradite.com/2014/04/09/programming-concepts-in-real-life-algorithm/)
 
 [Programming concepts in real life – Interface](https://paradite.com/2014/03/23/programming-concepts-in-real-life-interface/)
-
-* * *
 
 This document is ported to markdown from my [original blog post](https://paradite.com/2016/06/02/computing-terms-soc-students-freshmen/).
