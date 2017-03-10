@@ -27,7 +27,7 @@ Here are the essential computing terms that are frequently used by computing stu
   * [11\. Error 404](#11-error-404)
 - [Computing Terms – Computer Science](#computing-terms-%E2%80%93-computer-science)
   * [12\. Recursion](#12-recursion)
-  * [Other terms in Computer Science](#other-terms-in-computer-science)
+- [Other terms in Computer Science](#other-terms-in-computer-science)
 
 <!-- tocstop -->
 
@@ -91,7 +91,7 @@ In a nutshell, using Linux would save you a lot of trouble when doing programmin
 
 ![Screenshot of Ubuntu Desktop](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Desktop_Ubuntu_13_10.png/800px-Desktop_Ubuntu_13_10.png)
 
-Ubuntu is a [Debian](https://www.debian.org/)-basedLinux distribution, i.e. an operating system based on Linux. It gives you more features on top of Linux. It provides a graphical user interface similar to Windows and OS X, and built-in word processing software similar to Microsoft Office.
+Ubuntu is a [Debian](https://www.debian.org/)-based Linux distribution, i.e. an operating system based on Linux. It gives you more features on top of Linux. It provides a graphical user interface similar to Windows and OS X, and built-in word processing software similar to Microsoft Office.
 
 Normally when people say install Linux, they are referring to installing a Linux distribution such as Ubuntu.
 
@@ -137,7 +137,9 @@ Front-end, i.e. the client side of the web development, typically involves devel
 
 HTML serves as the skeleton of the web pages, it defines the structure and the content of the webpage that appears in the browser. It is the only essential component of a web page, i.e. you cannot write a web page without HTML. But it is also the most simple and basic component of the 3, as it is just a **markup language**. This means you cannot write logic in HTML like in programming languages such as C++ or Java, HTML only defines how the contents are presented.
 
-A webpage written in HTML typically have many HTML elements of various types (called HTML tags). Another popular markup language is markdown, which is typically used to write documentations and guides for software projects.
+A webpage written in HTML typically have many HTML elements of various types (called HTML tags).
+
+Another popular markup language is markdown, which is typically used to write documentations and guides for software projects. For example, this document you are reading now is written in markdown.
 
 ### 6\. CSS (Cascading Style Sheets)
 
@@ -147,7 +149,7 @@ Without CSS, web pages will be dry and boring. CSS allows web pages to have nice
 
 ### 7\. JavaScript
 
-JavaScript is an implementation of ECMAScript. Below is a screenshot of [ECMAScript’s Wikipedia page](https://en.wikipedia.org/wiki/ECMAScript) on the relationship between ECMAScript, JavaScript and the various browsers:
+JavaScript is an **implementation** of ECMAScript. Below is a screenshot of [ECMAScript’s Wikipedia page](https://en.wikipedia.org/wiki/ECMAScript) on the relationship between ECMAScript, JavaScript and the various browsers:
 
 ![Relationship between JavaScript, ECMAScript and the browsers, from https://en.wikipedia.org/wiki/ECMAScript](https://paradite.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-17-at-2.10.28-PM.png)
 
